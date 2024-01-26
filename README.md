@@ -12,6 +12,8 @@ Data structure inforamation
 data_songcombrain.xlsx
 
 Sheet1: 1. MacDougall-Shackleton et al. (1998): 16 male Zbs. 
-Syrinx(mg), Boday(g), Other brain measurements: in mm3, duration(ms), 
+Syrinx(mg), Body(g), Other brain measurements: in mm3, duration(ms)
+
 Sheet2: 2. DeVoogd et al. (1993): 1 to 4 birds. Average value in the sheet
+
 Sheet3: 3. Airey et al. (2000): Summary table for birds. Total 190 birds. Birds column show number of birds, Body and brain (g), Other brain measurements in mm3, CV us coefficient of variation or 100 * (s.d./mean)
